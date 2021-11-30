@@ -1,0 +1,25 @@
+{
+  "name": "deployment_workshop_template",
+  "version": "1.0.0",
+  "description": "Package for CIS557 deployment workshop",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cis557/deployment_workshop_template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cis557/deployment_workshop_template/issues"
+  },
+  "homepage": "https://github.com/cis557/deployment_workshop_template#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
